@@ -1,2 +1,2 @@
 print('hello world')
-a=1
+print("HELLO WORLD")
