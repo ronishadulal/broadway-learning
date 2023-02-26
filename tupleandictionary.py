@@ -36,5 +36,4 @@ print(b)
 #y.setdefault('c', 1)
 #print(y)
 
-print(b)
 
